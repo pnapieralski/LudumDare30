@@ -1,7 +1,7 @@
 LudumDare30
 ===========
 
-Source code for my Ludum Dare 30 entry - MARS COMMUNICATION SIMULATOR 2k14. I started the game with the idea that you have one person on mars and one person on earth - somehow they have to coordinate to solve a puzzle. The idea ended up being pretty boring, so I added some excitement about 24 hours into the competition. I don't think I'll turn this into an actual game, but it was a fun experiment!
+Source code for my Ludum Dare 30 entry - MARS COMMUNICATION SIMULATOR 2k14. I started the game with the idea that you have one person on mars and one person on earth - somehow they have to coordinate to solve a puzzle. My puzzle ended up being pretty boring, so I added some excitement about 24 hours into the competition. This was a fun experiment!
 
 
 Game summary
