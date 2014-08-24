@@ -21,4 +21,4 @@ All code, except for FlxExtendedButton and Fx classes (which were created last w
 
 All music created using FL Studio.
 
-All sound created using audacity.
+All sound created using Audacity.
