@@ -22,3 +22,7 @@ All code, except for FlxExtendedButton and Fx classes (which were created last w
 All music created using FL Studio.
 
 All sound created using Audacity.
+
+
+
+CHECK IT OUT ON LUDUM DAREs WEBSITE - http://www.ludumdare.com/compo/ludum-dare-30/?action=preview&uid=6932
